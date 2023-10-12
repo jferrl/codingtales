@@ -3,7 +3,7 @@ const siteMetadata = {
   title: 'CodingTales',
   author: 'Jorge Ferrero',
   headerTitle: 'CodingTales',
-  description: 'A blog created with Next.js and Tailwind.css',
+  description: 'Unveiling the Stories Behind the Code',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://codingtales.dev',
